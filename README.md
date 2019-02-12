@@ -1,6 +1,6 @@
 # Android_Memo
 
-* Using java.net.HttpURLConnection
+* Using java.io.FileOutputStream and java.io.FileInputStream
 
 * you must add `<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/>` in AndroidManifest.xml
 
